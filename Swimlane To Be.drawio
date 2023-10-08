@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T10:02:50.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="cbGynx58IYmGZmcMky40" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T10:03:58.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tMG_1ZqNMU8ENksJLBsh" version="21.7.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="628" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1517" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="2b4e8129b02d487f-12" value="Pencarian / Pembelian bahan baku" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="50" y="15.5" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-50" value="Melakukan pengiriman kepada pelanggan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="2b4e8129b02d487f-4" vertex="1">
+        <mxCell id="EXiJSsDwTDuwI2L_ceVk-50" value="Melakukan pengiriman kepada pelanggan menggunakan jasa pengiriman" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="560" y="15.5" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EXiJSsDwTDuwI2L_ceVk-8" value="Departemen&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Keuangan" style="swimlane;html=1;startSize=30;horizontal=0;fontSize=9;" parent="2b4e8129b02d487f-1" vertex="1">
