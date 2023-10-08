@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T09:19:15.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="J7f9TxJPFbPGkw15qrEe" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T10:04:00.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DsGOZwOvioc3unelgEbg" version="21.7.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="758" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,13 +87,13 @@
         <mxCell id="EXiJSsDwTDuwI2L_ceVk-32" value="Menerima pesanan Pelanggan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-10" vertex="1">
           <mxGeometry x="460" y="16.5" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-58" value="Menerima penilaian pelanggan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-10" vertex="1">
-          <mxGeometry x="680" y="16.5" width="70" height="37" as="geometry" />
+        <mxCell id="EXiJSsDwTDuwI2L_ceVk-47" value="Memberikan Formulir pesanan dan pembayaran" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-10" vertex="1">
+          <mxGeometry x="265" y="16.5" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EXiJSsDwTDuwI2L_ceVk-36" value="Customer" style="swimlane;html=1;startSize=30;horizontal=0;fontSize=9;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="440" width="770" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-37" value="Mengunjungi&lt;br&gt;Toko" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-36" vertex="1">
+        <mxCell id="EXiJSsDwTDuwI2L_ceVk-37" value="Mengunjungi&lt;br&gt;Website / Aplikasi ZPA SmartHome" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-36" vertex="1">
           <mxGeometry x="50" y="16.5" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EXiJSsDwTDuwI2L_ceVk-38" value="Memilih/ mencari produk SmartHome yang dibutuhkan / diinginkan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-36" vertex="1">
@@ -105,7 +105,7 @@
             <mxPoint x="143" y="-25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-40" value="Membeli produk perangkat SmartHome melalui Ecommerce" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-36" vertex="1">
+        <mxCell id="EXiJSsDwTDuwI2L_ceVk-40" value="Memesan produk perangkat SmartHome secara Manual" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-36" vertex="1">
           <mxGeometry x="260" y="16.5" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EXiJSsDwTDuwI2L_ceVk-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;" parent="EXiJSsDwTDuwI2L_ceVk-36" source="EXiJSsDwTDuwI2L_ceVk-38" target="EXiJSsDwTDuwI2L_ceVk-40" edge="1">
@@ -114,26 +114,11 @@
             <mxPoint x="154" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-47" value="Membayar Pembayaran produk" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-36" vertex="1">
-          <mxGeometry x="370" y="16.5" width="80" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;" parent="EXiJSsDwTDuwI2L_ceVk-36" source="EXiJSsDwTDuwI2L_ceVk-40" target="EXiJSsDwTDuwI2L_ceVk-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305.03030303030323" y="-53.5" as="sourcePoint" />
-            <mxPoint x="95" y="-113" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EXiJSsDwTDuwI2L_ceVk-54" value="Menerima produk yang dipesan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-36" vertex="1">
           <mxGeometry x="565" y="16.5" width="80" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-56" value="Menilai produk yang pesan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" parent="EXiJSsDwTDuwI2L_ceVk-36" vertex="1">
-          <mxGeometry x="680" y="16.5" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;" parent="EXiJSsDwTDuwI2L_ceVk-36" source="EXiJSsDwTDuwI2L_ceVk-54" target="EXiJSsDwTDuwI2L_ceVk-56" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="45" as="sourcePoint" />
-            <mxPoint x="515" y="-7" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="A2KUPN6uwb9VX7VzME6s-3" value="Mengisi formulir pembelian dan bukti pembayaran" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=7;align=center;" vertex="1" parent="EXiJSsDwTDuwI2L_ceVk-36">
+          <mxGeometry x="370" y="16.5" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EXiJSsDwTDuwI2L_ceVk-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;" parent="2b4e8129b02d487f-1" source="EXiJSsDwTDuwI2L_ceVk-18" target="EXiJSsDwTDuwI2L_ceVk-28" edge="1">
           <mxGeometry x="0.0362" y="-19" relative="1" as="geometry">
@@ -155,15 +140,6 @@
             <mxPoint x="415" y="433" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;" parent="2b4e8129b02d487f-1" source="EXiJSsDwTDuwI2L_ceVk-47" target="EXiJSsDwTDuwI2L_ceVk-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="485" as="sourcePoint" />
-            <mxPoint x="380" y="485" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="505" y="475" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EXiJSsDwTDuwI2L_ceVk-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;" parent="2b4e8129b02d487f-1" source="EXiJSsDwTDuwI2L_ceVk-28" target="EXiJSsDwTDuwI2L_ceVk-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415" y="396" as="sourcePoint" />
@@ -182,16 +158,28 @@
             <mxPoint x="515" y="83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;" parent="2b4e8129b02d487f-1" source="EXiJSsDwTDuwI2L_ceVk-56" target="EXiJSsDwTDuwI2L_ceVk-58" edge="1">
+        <mxCell id="EXiJSsDwTDuwI2L_ceVk-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;" parent="2b4e8129b02d487f-1" source="EXiJSsDwTDuwI2L_ceVk-40" target="EXiJSsDwTDuwI2L_ceVk-47" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="715" y="480" as="sourcePoint" />
-            <mxPoint x="690" y="485" as="targetPoint" />
+            <mxPoint x="305.03030303030323" y="386.5" as="sourcePoint" />
+            <mxPoint x="95" y="327" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EXiJSsDwTDuwI2L_ceVk-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;" parent="2b4e8129b02d487f-1" source="EXiJSsDwTDuwI2L_ceVk-58" target="EXiJSsDwTDuwI2L_ceVk-60" edge="1">
+        <mxCell id="A2KUPN6uwb9VX7VzME6s-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="EXiJSsDwTDuwI2L_ceVk-47" target="A2KUPN6uwb9VX7VzME6s-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="725" y="466" as="sourcePoint" />
-            <mxPoint x="725" y="434" as="targetPoint" />
+            <mxPoint x="310" y="434" as="sourcePoint" />
+            <mxPoint x="515" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2KUPN6uwb9VX7VzME6s-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="A2KUPN6uwb9VX7VzME6s-3" target="EXiJSsDwTDuwI2L_ceVk-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="415" as="sourcePoint" />
+            <mxPoint x="425" y="467" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2KUPN6uwb9VX7VzME6s-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=6;verticalAlign=middle;horizontal=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="EXiJSsDwTDuwI2L_ceVk-32" target="EXiJSsDwTDuwI2L_ceVk-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="370" as="sourcePoint" />
+            <mxPoint x="580" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
